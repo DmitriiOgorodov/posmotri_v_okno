@@ -1,0 +1,9 @@
+.content__details {
+    display: flex;
+    height: 100%;
+    width: 399px;
+    flex-direction: column;
+    margin: auto;
+    overflow: hidden auto;
+    scrollbar-width: none;
+}

@@ -1,0 +1,11 @@
+.search-form__textfield {
+    width: 225px;
+    background-color: transparent;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: 27px;
+    color: white;
+    border: 1px #fff solid;
+    border-style: solid none;
+    margin-top: 5px;
+}

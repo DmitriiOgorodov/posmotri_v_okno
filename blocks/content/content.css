@@ -1,0 +1,10 @@
+.content {
+    display: flex;
+    max-width: 1140px;
+    height: 534px;
+    flex-direction: row;
+    justify-content: center;
+    /*align-items: flex-end;*/
+    gap: 30px;
+    margin: 133px auto 0;
+}
