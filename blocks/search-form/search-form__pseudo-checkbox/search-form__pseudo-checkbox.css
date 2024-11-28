@@ -3,5 +3,7 @@
     width: 19px;
     height: 19px;
     margin-right: 5px;
-    border: 1px #fff soid;
+    border: 1px #fff solid;
+    cursor: pointer;
+    
 }
