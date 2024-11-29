@@ -1,7 +1,7 @@
 .search-form__textfield {
     width: 225px;
     background-color: transparent;
-    font-family: inherit;
+    font-family: inherit, sans-serif;
     font-size: inherit;
     line-height: 23px;
     color: white;

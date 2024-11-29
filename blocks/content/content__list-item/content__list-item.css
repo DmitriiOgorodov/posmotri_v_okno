@@ -2,7 +2,7 @@
     margin-bottom: 30px;
 }
 
-.content__list-item:active {
+/* .content__list-item:active {
     background-color: #545050;
 }
 
@@ -16,4 +16,4 @@
 
 .content__list-item:focus-visible {
     outline: 1px #fff solid;
-}
+} */

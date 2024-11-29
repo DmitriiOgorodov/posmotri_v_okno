@@ -1,6 +1,7 @@
 .search-form__label {
    display: flex;
    justify-content: center;
+   text-decoration: none;
 }
 
 .search-form__label:has(:focus-visible) {
@@ -10,3 +11,7 @@
 .search-form__label:hover {
    text-decoration: underline;
 }
+
+/* .search-form__label .search-form__textfield:hover {
+   text-decoration: none;
+} */
