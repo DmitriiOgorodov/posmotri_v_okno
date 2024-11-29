@@ -1,12 +1,5 @@
 .search-form__submit-button {
     width: 194px;
-    height: 34px;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 22px;
-    color: #fff;
-    border: 1px solid #fff;
-    padding: 0;
     align-self: flex-end;
     margin-left: auto;
 }

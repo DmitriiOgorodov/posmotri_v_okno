@@ -1,5 +1,21 @@
 .button {
+    height: 34px;
+    width: 100%;
+    font-stretch: 50%;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 0;
     background-color: transparent;
-    border: 0;
     cursor: pointer;
+}
+
+.button:hover {
+    text-decoration: underline;
+}
+
+.button:active {
+    background-color: #545050;
 }

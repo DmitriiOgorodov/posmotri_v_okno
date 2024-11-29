@@ -1,0 +1,19 @@
+.content__list-item:not(:last-of-type) {
+    margin-bottom: 30px;
+}
+
+.content__list-item:active {
+    background-color: #545050;
+}
+
+.content__list-item:hover {
+    text-decoration: underline;
+}
+
+.content__list-item:focus {
+    outline: none;
+}
+
+.content__list-item:focus-visible {
+    outline: 1px #fff solid;
+}

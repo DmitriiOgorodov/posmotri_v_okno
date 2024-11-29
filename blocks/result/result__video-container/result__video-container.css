@@ -1,4 +1,5 @@
 .result__video-container {
+    position: relative;
     display: flex;
     height: 386px;
     width: 100%;

@@ -5,5 +5,18 @@
     margin-right: 5px;
     border: 1px #fff solid;
     cursor: pointer;
-    
+}
+
+input[type='checkbox']:checked + span {
+    background-repeat: no-repeat;
+    background-image: url(./../../../images/Rectangle\ 26.svg);
+    background-position: center;
+}
+
+.search-form__pseudo-checkbox:focus {
+    outline: none;
+}
+
+.search-form__pseudo-checkbox:focus-visible {
+    outline: auto;
 }

@@ -2,3 +2,11 @@
    display: flex;
    justify-content: center;
 }
+
+.search-form__label:has(:focus-visible) {
+   outline: auto;
+}
+
+.search-form__label:hover {
+   text-decoration: underline;
+}
