@@ -2,6 +2,7 @@
     display: block;
     text-decoration: none;
     color: #fff;
+    margin: 1px;
 }
 
 .content__card-link:hover {

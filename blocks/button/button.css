@@ -1,6 +1,7 @@
 .button {
     height: 34px;
     width: 100%;
+    font-family: "Fira Sans Condensed", sans-serif;
     font-stretch: 50%;
     font-weight: 700;
     font-size: 18px;
@@ -18,4 +19,12 @@
 
 .button:active {
     background-color: #545050;
+}
+
+.button:focus {
+    outline: none;
+}
+
+.button:focus-visible {
+    outline: 1px #fff solid;
 }

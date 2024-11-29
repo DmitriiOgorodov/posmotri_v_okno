@@ -1,9 +1,6 @@
 .content__details {
-    /* display: flex; */
+    display: flex;
     height: 100%;
     width: fit-content;
-    /* flex-direction: column; */
-    /* margin: auto; */
-    overflow: hidden auto;
-    scrollbar-width: none;
+    flex-direction: column;
 }

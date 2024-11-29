@@ -1,13 +1,12 @@
 .search-form__textfield {
     width: 225px;
     background-color: transparent;
-    font-family: inherit, sans-serif;
+    font-family: 'Fira Sans Condensed', sans-serif;
     font-size: inherit;
     line-height: 23px;
     color: white;
     border: 1px #fff solid;
     border-style: solid none;
-    margin-top: 5px;
     /* appearance: none; */
 }
 
@@ -16,5 +15,5 @@
 }
 
 .search-form__textfield:focus-visible {
-    outline: auto;
+    outline: none;
 }

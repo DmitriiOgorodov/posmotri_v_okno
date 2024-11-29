@@ -1,5 +1,8 @@
 .content__list {
+    width: 409px;
+    height: 295px;
     margin-top: 26px;
-    height: 386px;
     position: relative;
+    overflow: hidden auto;
+    scrollbar-width: thin;
 }
