@@ -1,6 +1,5 @@
-.content__card-link_current:focus {
+.content__card-link_current {
     background-color: #545050;
-    outline: none;
 }
 
 /* .content__card-link:active {

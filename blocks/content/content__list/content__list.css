@@ -3,6 +3,6 @@
     height: 295px;
     margin-top: 26px;
     position: relative;
-    overflow: hidden auto;
+    overflow: auto;
     scrollbar-width: thin;
 }
