@@ -1,5 +1,6 @@
 .content {
     display: flex;
+    height: 534px;
     max-width: 1140px;
     flex-direction: row;
     justify-content: center;

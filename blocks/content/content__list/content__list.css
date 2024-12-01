@@ -1,7 +1,6 @@
 .content__list {
     width: 409px;
-    height: 295px;
-    margin-top: 26px;
+    margin-top: 22px;
     position: relative;
     overflow: auto;
     scrollbar-width: thin;

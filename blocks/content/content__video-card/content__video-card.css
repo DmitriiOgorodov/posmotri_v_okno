@@ -2,6 +2,7 @@
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
+    width: 100%;
 }
 
 /* .content__video-card:active {
