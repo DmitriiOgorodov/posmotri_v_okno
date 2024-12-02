@@ -27,4 +27,5 @@
 
 .button:focus-visible {
     outline: 1px #fff solid;
+    outline-offset: 1px;
 }
