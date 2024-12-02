@@ -1,4 +1,6 @@
 .search-form__label {
+   margin-top: 5px;
+   height: 21px;
    padding: 1px;
    display: flex;
    justify-content: center;
