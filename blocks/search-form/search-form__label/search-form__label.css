@@ -1,6 +1,5 @@
 .search-form__label {
    margin-top: 5px;
-   padding: 1px;
    display: flex;
    justify-content: center;
    text-decoration: none;
@@ -9,6 +8,7 @@
 
 .search-form__label:has(:focus-visible) {
    outline: 1px solid #fff;
+   outline-offset: 1px;
 }
 
 .search-form__label:hover {
